@@ -3,4 +3,4 @@ Hello world
 Goodbye!
 asdf
 line from user2
-asdf
+Another line from user1
